@@ -1,0 +1,25 @@
+.block {
+
+
+height: 200px;
+width: 300px;
+float: left;
+padding: 15px;
+
+}
+
+
+header {
+
+    background-color: darkblue;
+    font-size: 2em;
+    padding: 10px;
+    color: white;
+    text-transform: uppercase;
+    
+}
+
+.block img {
+    width:100%;
+
+}
